@@ -1,0 +1,25 @@
+# Ignore build artifacts
+target/
+build/
+out/
+
+# Ignore IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore test reports
+test-output/
+
+# Ignore WebDriver binaries
+webdriver/
+
+# Ignore logs
+logs/
+
+# Ignore screenshots
+screenshots/
+
+# Ignore any files ending in .log
+*.log
