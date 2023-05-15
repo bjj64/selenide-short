@@ -5,6 +5,8 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.AfterEach;
 import static com.codeborne.selenide.Selenide.closeWebDriver;
 import utils.DataReader;
+import pages.CalculatorPage;
+
 
 public class CalculatorTest {
     private CalculatorPage calculatorPage;
