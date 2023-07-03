@@ -1,7 +1,5 @@
 {
-  "url": "https://web2.0calc.com/",
-  "firstExpression": "2+3",
-  "secondExpression": "10-2",
-  "thirdExpression": "(10-2)*2",
-  "fourthExpression": "sin(30)"
+  "url": "https://magento.softwaretestingboard.com/",
+  "userEmail": "test@test.ua",
+  "userPassword": "test!2345"
 }

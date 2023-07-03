@@ -8,20 +8,12 @@ public class DataReader {
 
   private static final String FILE_NAME = "src/data/testdata.json";
 
-  public static String getFirstExpression() {
-    return getData().get("firstExpression").getAsString();
+  public static String getUserEmail() {
+    return getData().get("userEmail").getAsString();
   }
 
-  public static String getSecondExpression() {
-    return getData().get("secondExpression").getAsString();
-  }
-
-  public static String getThirdExpression() {
-    return getData().get("thirdExpression").getAsString();
-  }
-
-  public static String getFourthExpression() {
-    return getData().get("fourthExpression").getAsString();
+  public static String getUserPassword() {
+    return getData().get("userPassword").getAsString();
   }
 
   public static String getUrl() {
